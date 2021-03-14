@@ -1,4 +1,4 @@
-###REACT GIF APP
+### REACT GIF APP
 
 Aplicación en REACT para consumir API de GIPHY
 
